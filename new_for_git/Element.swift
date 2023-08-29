@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+
+class Human {
+    var madonna = "Madonna"
+}
+
+
