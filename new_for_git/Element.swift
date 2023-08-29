@@ -10,6 +10,8 @@ import Foundation
 
 class Human {
     var madonna = "Madonna"
+    var test = "test"
+    var next = "next"
 }
 
 
