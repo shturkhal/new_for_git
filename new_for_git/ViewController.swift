@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var myButton: UIButton!
+    var odesa = "Odesa"
     
     override func viewDidLoad() {
         super.viewDidLoad()
